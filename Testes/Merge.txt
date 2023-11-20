@@ -1,0 +1,53 @@
+## Algoritmo: merge_sort ##
+==========================================
+# Tamanho do array: 1000 #
+
+Caso: Melhor Caso
+Média do Tempo de Execução: 0.002410 segundos
+Média de Trocas: 5044.0
+Média de Comparações: 4932.0
+
+Caso: Caso Médio
+Média do Tempo de Execução: 0.001602 segundos
+Média de Trocas: 1262.0
+Média de Comparações: 8714.0
+
+Caso: Pior Caso
+Média do Tempo de Execução: 0.002417 segundos
+Média de Trocas: 4932.0
+Média de Comparações: 5044.0
+
+==========================================
+# Tamanho do array: 10000 #
+
+Caso: Melhor Caso
+Média do Tempo de Execução: 0.030908 segundos
+Média de Trocas: 69008.0
+Média de Comparações: 64608.0
+
+Caso: Caso Médio
+Média do Tempo de Execução: 0.018876 segundos
+Média de Trocas: 13117.2
+Média de Comparações: 120498.8
+
+Caso: Pior Caso
+Média do Tempo de Execução: 0.031306 segundos
+Média de Trocas: 64608.0
+Média de Comparações: 69008.0
+==========================================
+# Tamanho do array: 100000 #
+
+Caso: Melhor Caso
+Média do Tempo de Execução: 0.384254 segundos
+Média de Trocas: 853904.0
+Média de Comparações: 815024.0
+
+Caso: Caso Médio
+Média do Tempo de Execução: 0.237583 segundos
+Média de Trocas: 132644.0
+Média de Comparações: 1536284.0
+
+Caso: Pior Caso
+Média do Tempo de Execução: 0.384535 segundos
+Média de Trocas: 815024.0
+Média de Comparações: 853904.0

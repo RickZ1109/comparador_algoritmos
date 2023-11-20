@@ -1,0 +1,54 @@
+## Algoritmo: insertion_sort ##
+==========================================
+# Tamanho do array: 1000 #
+
+Caso: Melhor Caso
+Tempo de Execução: 0.000000 segundos
+Quantidade de Trocas: 0
+Quantidade de Comparações: 999
+
+Caso: Caso Médio
+Tempo de Execução: 0.046875 segundos
+Quantidade de Trocas: 248868
+Quantidade de Comparações: 249867
+
+Caso: Pior Caso
+Tempo de Execução: 0.109375 segundos
+Quantidade de Trocas: 499500
+Quantidade de Comparações: 500499
+
+==========================================
+# Tamanho do array: 10000 #
+
+Caso: Melhor Caso
+Tempo de Execução: 0.000000 segundos
+Quantidade de Trocas: 0
+Quantidade de Comparações: 9999
+
+Caso: Caso Médio
+Tempo de Execução: 5.046859 segundos
+Quantidade de Trocas: 25138545
+Quantidade de Comparações: 25148544
+
+Caso: Pior Caso
+Tempo de Execução: 10.062442 segundos
+Quantidade de Trocas: 49995000
+Quantidade de Comparações: 50004999
+
+==========================================
+# Tamanho do array: 100000 #
+
+Caso: Melhor Caso
+Tempo de Execução: 0.015625 segundos
+Quantidade de Trocas: 0
+Quantidade de Comparações: 99999
+
+Caso: Caso Médio
+Tempo de Execução: 578.620634 segundos
+Quantidade de Trocas: 2492409489
+Quantidade de Comparações: 2492509488
+
+Caso: Pior Caso
+Tempo de Execução: 1199.347616 segundos
+Quantidade de Trocas: 4999950000
+Quantidade de Comparações: 5000049999

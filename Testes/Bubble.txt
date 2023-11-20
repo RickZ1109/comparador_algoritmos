@@ -1,0 +1,53 @@
+## Algoritmo: bubble_sort ##
+==========================================
+# Tamanho do array: 1000 #
+
+Caso: Melhor Caso
+Tempo de Execução: 0.066278 segundos
+Quantidade de Trocas: 0
+Quantidade de Comparações: 499500
+
+Caso: Caso Médio
+Tempo de Execução: 0.113435 segundos
+Quantidade de Trocas: 248868
+Quantidade de Comparações: 499500
+
+Caso: Pior Caso
+Tempo de Execução: 0.158463 segundos
+Quantidade de Trocas: 499500
+Quantidade de Comparações: 499500
+
+==========================================
+# Tamanho do array: 10000 #
+
+Caso: Melhor Caso
+Tempo de Execução: 6.627087 segundos
+Quantidade de Trocas: 0
+Quantidade de Comparações: 49995000
+
+Caso: Caso Médio
+Tempo de Execução: 11.754335 segundos
+Quantidade de Trocas: 25138545
+Quantidade de Comparações: 49995000
+
+Caso: Pior Caso
+Tempo de Execução: 16.260939 segundos
+Quantidade de Trocas: 49995000
+Quantidade de Comparações: 49995000
+==========================================
+# Tamanho do array: 100000 #
+
+Caso: Melhor Caso
+Tempo de Execução: 680.963135 segundos
+Quantidade de Trocas: 0
+Quantidade de Comparações: 4999950000
+
+Caso: Caso Médio
+Tempo de Execução: 1179.941308 segundos
+Quantidade de Trocas: 2492409489
+Quantidade de Comparações: 4999950000
+
+Caso: Pior Caso
+Tempo de Execução: 1759.161918 segundos
+Quantidade de Trocas: 4999950000
+Quantidade de Comparações: 4999950000
