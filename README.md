@@ -1,1 +1,1 @@
-# comparador_algoritmos
+# Comparador de Algoritmos
